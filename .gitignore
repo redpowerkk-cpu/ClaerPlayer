@@ -1,0 +1,22 @@
+# Reproducible build products and downloaded third-party binaries
+/artifacts/
+/deps/
+/dist/
+/tools/
+/mpv-release.json
+
+# Generated media, playback history, captures, and machine-specific test output
+/tests/*
+!/tests/generate.ps1
+!/tests/run.ps1
+
+# Local editor and system files
+.vs/
+*.user
+*.suo
+*.log
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+!.env.example

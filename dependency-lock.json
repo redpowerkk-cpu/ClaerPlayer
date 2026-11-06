@@ -1,0 +1,13 @@
+{
+  "release": "20261106",
+  "mpv": {
+    "url": "https://github.com/shinchiro/mpv-winbuild-cmake/releases/download/20261106/mpv-dev-x86_64-20261106-git-9028187538.7z",
+    "file": "mpv-dev-x86_64-20261106-git-9028187538.7z",
+    "sha256": "b5a3cc91b5dabf88ad5bb21d000834da4fd0bbda30f4584d39c082127bd62414"
+  },
+  "testFfmpeg": {
+    "url": "https://github.com/shinchiro/mpv-winbuild-cmake/releases/download/20261106/ffmpeg-x86_64-git-9f690c6a4.7z",
+    "file": "ffmpeg-x86_64-git-9f690c6a4.7z",
+    "sha256": "1f19e71f70ae47d8f48a16c38bca1c68a42d94a5fddbdcf1b7aae8e162b228b8"
+  }
+}
